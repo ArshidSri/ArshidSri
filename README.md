@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arshid
-- 👀 I’m interested in Machine Learning,Deep Learnin, Finance, Block chain,Cybersecurity and everything Computer Science.
+- 👀 I’m interested in Machine Learning,Deep Learning, Finance, Block chain,Cybersecurity and everything Computer Science.
 - 🌱 I’m currently learning in Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate in any challenging software projects.
 - 📫 How to reach me is by mail arshidsriraam.s@gmail.com
