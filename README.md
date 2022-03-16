@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arshid
-- 👀 I’m interested in Machine Learning, Finance, Block chain and Cybersecurity.
+- 👀 I’m interested in Machine Learning,Deep Learnin, Finance, Block chain,Cybersecurity and everything Computer Science.
 - 🌱 I’m currently learning in Machine Learning and Deep Learning.
-- 💞️ I’m looking to collaborate on ML projects.
-- 📫 How to reach me is by mail arshidsriraam7@gmail.com.
+- 💞️ I’m looking to collaborate in any challenging software projects.
+- 📫 How to reach me is by mail arshidsriraam.s@gmail.com
 
 <!---
 ArshidSri/ArshidSri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
